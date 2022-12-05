@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightcyan;
+    height: 100vh;
+    width: 100vw;
+}
+table{
+    border: 1px black solid;
+    border-collapse: collapse;
+    
+}
+
+td, th{
+    border: 1px black solid;
+    padding: 20px;
+}
+
+thead{
+    background-color: rgb(153, 153, 243);
+}
